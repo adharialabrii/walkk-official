@@ -28,6 +28,11 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    background: #FFFEF2;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+    background-size: 300px 100px;
 }
 
 .logo{
